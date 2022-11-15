@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Higasan
-- 👀 I’m interested in aprender muito !
+- 👀 I'm interested in learning a lot!
 - 🌱 I’m currently learning  Ruby !
-- 💞️ I’m looking to  primeiro aprimorar meus conhecimentos em Ruby !
+- 💞️ I'm looking to improve my Ruby knowledge first!
 - 📫 How to reach me higaccb@gmail.com
 
 <!---
